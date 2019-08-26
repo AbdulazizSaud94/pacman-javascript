@@ -1,3 +1,3 @@
 # pacman-javascript
  
- Pacman game using java script
+ Pacman game using javascript
